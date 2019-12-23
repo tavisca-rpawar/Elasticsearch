@@ -1,0 +1,11 @@
+C:\Users\rupawar\source\ORXE\ELastic Search Application\ELastic Search Application\bin\Debug\netcoreapp2.2\ELastic Search Application.deps.json
+C:\Users\rupawar\source\ORXE\ELastic Search Application\ELastic Search Application\bin\Debug\netcoreapp2.2\ELastic Search Application.runtimeconfig.json
+C:\Users\rupawar\source\ORXE\ELastic Search Application\ELastic Search Application\bin\Debug\netcoreapp2.2\ELastic Search Application.runtimeconfig.dev.json
+C:\Users\rupawar\source\ORXE\ELastic Search Application\ELastic Search Application\bin\Debug\netcoreapp2.2\ELastic Search Application.dll
+C:\Users\rupawar\source\ORXE\ELastic Search Application\ELastic Search Application\obj\Debug\netcoreapp2.2\ELastic Search Application.csprojAssemblyReference.cache
+C:\Users\rupawar\source\ORXE\ELastic Search Application\ELastic Search Application\obj\Debug\netcoreapp2.2\ELastic Search Application.csproj.CoreCompileInputs.cache
+C:\Users\rupawar\source\ORXE\ELastic Search Application\ELastic Search Application\obj\Debug\netcoreapp2.2\ELastic Search Application.AssemblyInfoInputs.cache
+C:\Users\rupawar\source\ORXE\ELastic Search Application\ELastic Search Application\obj\Debug\netcoreapp2.2\ELastic Search Application.AssemblyInfo.cs
+C:\Users\rupawar\source\ORXE\ELastic Search Application\ELastic Search Application\bin\Debug\netcoreapp2.2\ELastic Search Application.pdb
+C:\Users\rupawar\source\ORXE\ELastic Search Application\ELastic Search Application\obj\Debug\netcoreapp2.2\ELastic Search Application.dll
+C:\Users\rupawar\source\ORXE\ELastic Search Application\ELastic Search Application\obj\Debug\netcoreapp2.2\ELastic Search Application.pdb
